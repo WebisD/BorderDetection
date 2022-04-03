@@ -1,7 +1,7 @@
 # BorderDetection
 Border detection using opencv
 
-O código utilizado está disponível em: **main.py**
+O código utilizado está disponível em: **main.py**.
 
 ## Técnicas utilizadas:
 
